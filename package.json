@@ -1,0 +1,19 @@
+{
+  "name": "vb-input-documents",
+  "version": "1.0.0",
+  "description": "Vue input component documents",
+  "main": "index.js",
+  "authors": {
+    "name": "Ehsan",
+    "email": "sh.ehsan74.es@gmail.com"
+  },
+  "repository": "/vb-input-documents",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
